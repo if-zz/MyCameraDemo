@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\AndroidProject\\MyCameraDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\camera.xml",
+        "source": "G:\\AndroidProject\\MyCameraDemo\\app\\src\\main\\res\\menu\\camera.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\MyCameraDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "G:\\AndroidProject\\MyCameraDemo\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
